@@ -1,4 +1,4 @@
-Functional Requirements: Post/tweet, Like, Share/retweet, Search, Follow, Timeline, Comment, trending
+Functional Requirements: Post/tweet, Like, Share/retweet, Search, Follow, Home Timeline, Comment, trending
 
 Non Functional Requirements: Low latency, High Availability
 
